@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584384784 source:d:\c++\apki\zadanie3.43\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"funkcje.h"
+
+1584384819 d:\c++\apki\zadanie3.43\funkcje.h
+	<string>
+
